@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\ttc2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1670956675 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1670956002 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\game.h
+
+1670971897 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\endgame.c
+	<stdio.h>
+	"game.h"
+	"endGame.h"
+
+1668695944 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\endgame.h
+
+1670956002 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\initgame.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	"initGame.h"
+
+1668695944 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\initgame.h
+
+1670950672 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\playgame.c
+	<stdio.h>
+	"game.h"
+	"playGame.h"
+	"endGame.h"
+	"initGame.h"
+	<string.h>
+
+1670956475 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt2\coursework2(2) (2)\coursework2\playgame.h
+

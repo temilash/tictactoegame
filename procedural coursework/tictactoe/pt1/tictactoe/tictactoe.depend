@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1675866584 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\endgame.c
+	<stdio.h>
+	"game.h"
+	"endGame.h"
+
+1670855204 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\game.h
+
+1668695944 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\endgame.h
+
+1670944739 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\initgame.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	"initGame.h"
+	<string.h>
+
+1670867741 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\initgame.h
+
+1670969681 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\playgame.c
+	<stdio.h>
+	"game.h"
+	"playGame.h"
+	"endGame.h"
+	"initGame.h"
+	<string.h>
+
+1670870854 c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\playgame.h
+
+1670971651 source:c:\users\temil\dropbox\pc\documents\procedural coursework\tictactoe\pt1\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	"initGame.h"
+	"playGame.h"
+	<string.h>
+
